@@ -2,8 +2,6 @@ Hi there, I'm Didier, a technology and information security enthusiast. I starte
 
 I believe that technology can be used to improve people's lives, but this can only be done if we work together and share our knowledge. That's why I'm also a strong advocate of collaboration and openness in the tech industry.
 
-At the end of the day, I'm proud of what I do and hope to continue helping people through my work. 
-
 May the source code be with you!
 
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=dbarzin&count_private=true&show_icons=true)](https://github.com/dbarzin)
